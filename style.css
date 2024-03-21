@@ -251,6 +251,7 @@ footer{
 }
 
 table div:active img.sold{
+  pointer-events: none;
   animation: sold-out 1.5s;
 }
   @keyframes sold-out {
