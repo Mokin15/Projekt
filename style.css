@@ -38,6 +38,7 @@ img.invert{
     grid-template-columns: 58px 1fr 58px;
     grid-template-rows: 54px 190px;
     position: fixed;
+    z-index: 999999;
   }
 
   body.display--grid{
