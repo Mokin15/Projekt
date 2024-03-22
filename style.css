@@ -669,16 +669,12 @@ animation: sold-out 1.5s;
 }
 @keyframes sold-out {
   from{
-    visibility:hiden;
     opacity: 0;
-  1%{
-    visibility:visible;
   }
   50%{
     opacity: 1;
   }
   to{
-    visibility:hiden;
     opacity: 0;
   }
 }
