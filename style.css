@@ -502,6 +502,7 @@ table div:hover img.sold{
   nav.menu-standard{
     display: grid;
     position: fixed;
+    z-index: 9999;
     background-color: var(--nav-color);
     grid-template-rows: 6rem;
     grid-template-columns: repeat(7, 1fr) ;
