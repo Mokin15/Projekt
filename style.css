@@ -626,6 +626,7 @@ font-size: .25rem;
 }
 
 section.contacts form{
+font-size: 1.5rem;
 padding: .5rem;
 background-color: var(--body--bgcolor-dark);
 }
