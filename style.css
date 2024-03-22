@@ -611,6 +611,8 @@ grid-column: 1/2;
 grid-row: 1/2;
 }
 img.sold{
+z-index: 10;
+pointer-events: none;
 opacity: 0;
 grid-row: 1/2;
 transition: all .5s linear;
