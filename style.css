@@ -527,6 +527,8 @@ table div:hover img.sold{
     grid-area: d;
   }
   a.menu-text{
+    margin-right: .5rem;
+    margin-left: .5rem;
     display: flex;
     font-size: 4rem;
     text-decoration: none;
