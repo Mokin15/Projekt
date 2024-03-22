@@ -315,6 +315,7 @@ table div:active img.sold{
     height: 6rem;
     background-color: var(--nav-color);
     position: fixed;
+    z-index:9999;
     display: grid;
     grid-template-columns: repeat(5, 1fr) ;
     grid-template-rows: 6rem;
